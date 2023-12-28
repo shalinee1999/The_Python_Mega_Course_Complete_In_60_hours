@@ -1,0 +1,3 @@
+ranking = ['John', 'Sen', 'Lisa']
+n=ranking.index(input("Enter a name:"))
+print(n+1)
